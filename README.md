@@ -53,23 +53,23 @@ To turn a Graymap(Grayscale) image to BitMap(Black & White), it reads a pixel an
 
 #### ASCII
 
-(insert image)
+![colorsasc.ppm to colorsasc.pgm](https://github.com/constantinosgeorgiou/netpbm-image-processor/blob/master/imgs/examples/AscPPMtoAscPGM.png)
 ```bash
 $ ./netpbm < colorsasc.ppm > colorsasc.pgm
 ```
-(insert image)
+![colorsasc.pgm to colorsasc.pbm](https://github.com/constantinosgeorgiou/netpbm-image-processor/blob/master/imgs/examples/AscPGMtoAscPBM.png)
 ```bash
 $ ./netpbm < colorsasc.pgm > colorsasc.pbm
 ```
 
 #### Binary
 
-(insert image
+![SWbin.ppm to SWbin.pgm](https://github.com/constantinosgeorgiou/netpbm-image-processor/blob/master/imgs/examples/BinPPMtoBinPGM.png)
 ```bash
 $ ./netpbm < SWbin.ppm > SWbin.pgm
 ```
 
-(insert image
+![SWbin.pgm to SWbin.pbm](https://github.com/constantinosgeorgiou/netpbm-image-processor/blob/master/imgs/examples/BinPGMtoBinPBM.png)
 ```bash
 $ ./netpbm < SWbin.pgm > SWbin.pbm
 ```
